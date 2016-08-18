@@ -7,7 +7,7 @@ var Route = Router.Route;
 var IndexRoute = Router.IndexRoute;
 
 module.exports = (
-    //index route render Main
+    //index route render Main s
     // and specify children routes
     <Route path="/" component={Main} >
         <Route path="profile/:username" component={Profile} />

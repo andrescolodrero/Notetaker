@@ -8,7 +8,7 @@ export default class Home extends Component {
     }
 }
 
-/*
+/*asdasd
 var Home = React.createClass({
 render: function() {
     return (
