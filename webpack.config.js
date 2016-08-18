@@ -8,7 +8,7 @@ module.exports = {
         filename: "public/bundle.js"
     },
     module: {
-        // where to find modules, so we dont need to add continuosly js files to index
+        // where to fidnd modules, so we dont need to add continuosly js files to index
         loaders: [
             {
             test: /\.jsx?$/,
